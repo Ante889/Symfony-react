@@ -1,0 +1,6 @@
+1. Composer install
+
+// Start server - Symfony CLI must be installed (https://symfony.com/download)
+2. Symfony server:start (/home/ante/.symfony5/bin/symfony server:start)
+
+3. install docker and docker-compose. After that docker-compose -b --build in the project folder
